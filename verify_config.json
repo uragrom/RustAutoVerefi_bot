@@ -1,0 +1,12 @@
+{
+  "region": [
+    0,
+    682,
+    673,
+    440
+  ],
+  "interval": 0.3,
+  "cooldown": 1,
+  "chat_key": "enter",
+  "always_on_top": true
+}
